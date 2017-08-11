@@ -1,0 +1,2 @@
+# DupFiles
+Duplicate File Checker
